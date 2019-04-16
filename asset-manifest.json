@@ -1,13 +1,13 @@
 {
   "main.css": "/curtis/static/css/main.4bab254a.chunk.css",
-  "main.js": "/curtis/static/js/main.8d3e5b08.chunk.js",
-  "main.js.map": "/curtis/static/js/main.8d3e5b08.chunk.js.map",
+  "main.js": "/curtis/static/js/main.574a8daf.chunk.js",
+  "main.js.map": "/curtis/static/js/main.574a8daf.chunk.js.map",
   "runtime~main.js": "/curtis/static/js/runtime~main.8b33d7fe.js",
   "runtime~main.js.map": "/curtis/static/js/runtime~main.8b33d7fe.js.map",
   "static/js/2.d1c154db.chunk.js": "/curtis/static/js/2.d1c154db.chunk.js",
   "static/js/2.d1c154db.chunk.js.map": "/curtis/static/js/2.d1c154db.chunk.js.map",
   "index.html": "/curtis/index.html",
-  "precache-manifest.6f3c48bfbdcb572aa8e0ca2473680da4.js": "/curtis/precache-manifest.6f3c48bfbdcb572aa8e0ca2473680da4.js",
+  "precache-manifest.6dc1a3b693627c19f5bae91fb420ce69.js": "/curtis/precache-manifest.6dc1a3b693627c19f5bae91fb420ce69.js",
   "service-worker.js": "/curtis/service-worker.js",
   "static/css/main.4bab254a.chunk.css.map": "/curtis/static/css/main.4bab254a.chunk.css.map"
 }
