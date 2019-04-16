@@ -6,7 +6,7 @@ function Home() {
       <ul class="menu">
         <li class="menu__list"><a href="#">Пункт 1</a>
           <ul class="menu__drop">
-            <li><a href="#">Подпункт 1</a></li>
+            <li><a href="#">hello</a></li>
             <li><a href="#">Подпункт 2</a></li>
             <li><a href="#">Подпункт 3</a></li>
             <li><a href="#">Подпункт 4</a></li>
